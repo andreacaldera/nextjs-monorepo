@@ -1,0 +1,9 @@
+{
+  "name": "static-site",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/static-site",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project static-site --web",
+  "targets": {}
+}
