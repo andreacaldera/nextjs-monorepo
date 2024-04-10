@@ -1,0 +1,6 @@
+{
+  "framework": "nextjs",
+  "buildCommand": "nx run public-site:build",
+  "outputDirectory": "apps/public-site/.next",
+  "installCommand": "pnpm install --ignore-scripts"
+}

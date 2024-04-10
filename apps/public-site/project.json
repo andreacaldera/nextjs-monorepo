@@ -1,0 +1,8 @@
+{
+  "name": "public-site",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/public-site",
+  "projectType": "application",
+  "tags": [],
+  "targets": {}
+}
